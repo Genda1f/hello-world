@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans! 
+
+Genda1f here, I like c#.
